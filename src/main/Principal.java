@@ -8,6 +8,7 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		System.out.println("Hola mundo");
 		// Crear coleccion de objetos
 		Usuarios usuario1 = new Usuarios(1, "admin", "admin2", true);
 		Usuarios usuario2 = new Usuarios(2, "Isabel", "isaBien", true);
